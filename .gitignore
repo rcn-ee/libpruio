@@ -1,0 +1,10 @@
+*.o
+*.o.cmd
+
+#build
+src/.libpruio.ko.cmd
+src/.tmp_versions/
+src/Module.symvers
+src/libpruio.ko
+src/libpruio.mod.c
+src/modules.order
